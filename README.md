@@ -1,5 +1,6 @@
 ### FifteenPuzzle-Java
 #### 游戏名：数字华容道
+<div align=center>
 <br />
 <center>
     <img style="border-radius: 0.3125em;
@@ -78,3 +79,4 @@
     padding: 2px;">图7 统计步数</div>
 </center>
 <br />
+<div>
